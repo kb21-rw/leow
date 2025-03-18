@@ -239,14 +239,14 @@
   {
     "_id": 32,
     "question_number": 32,
-    "question": "Soma maze usubiza:\nCan you please turn off the lights before leaving?\nUvuga arashaka .......",
+    "question": "**Soma maze usubize**:\nCan you please turn off the lights before leaving?\nUvuga arashaka .......",
     "options": ["To look at the menu", "To eat", "To save energy"],
     "answer": "To save energy"
   },
   {
     "_id": 33,
     "question_number": 33,
-    "question": "Soma maze usubiza:\nI'm so excited for the concert tonight!\nUvuga arashaka .......",
+    "question": "**Soma maze usubize**:\nI'm so excited for the concert tonight!\nUvuga arashaka .......",
     "options": [
       "Discuss a task",
       "Express excitement",
@@ -257,7 +257,7 @@
   {
     "_id": 34,
     "question_number": 34,
-    "question": "Soma maze usubiza:\nDon't forget to bring your umbrella; it's going to rain.\nUvuga arashaka .......",
+    "question": "**Soma maze usubize**:\nDon't forget to bring your umbrella; it's going to rain.\nUvuga arashaka .......",
     "options": [
       "Give weather advice",
       "Plan a vacation",
@@ -268,7 +268,7 @@
   {
     "_id": 35,
     "question_number": 35,
-    "question": "Soma maze usubiza:\nI have been studying all night for the exam.\nUvuga arashaka .......",
+    "question": "**Soma maze usubize**:\nI have been studying all night for the exam.\nUvuga arashaka .......",
     "options": [
       "To talk about a party",
       "Describe exam preparation",
@@ -279,7 +279,7 @@
   {
     "_id": 36,
     "question_number": 36,
-    "question": "Soma maze usubiza:\nThe train will arrive in 10 minutes.\nUvuga arashaka .......",
+    "question": "**Soma maze usubize**:\nThe train will arrive in 10 minutes.\nUvuga arashaka .......",
     "options": [
       "Share train schedule",
       "Discuss hotel reservation",
