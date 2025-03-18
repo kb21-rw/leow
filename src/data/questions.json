@@ -193,7 +193,7 @@
   {
     "_id": 26,
     "question_number": 26,
-    "question": "Andika "mu" mu cyongereza:",
+    "question": "Andika “mu” mu cyongereza:",
     "options": ["On", "And", "In"],
     "answer": "In"
   },
@@ -226,33 +226,21 @@
     "_id": 30,
     "question_number": 30,
     "question": "Uzuza iki kiganiro:\nUmuntu A: It's so hot today!\nUmuntu B: Can we go swimming?\nUmuntu A: ………..",
-    "options": [
-      "Sure! Let's go.",
-      "I love cold juice.",
-      "I sell tea"
-    ],
+    "options": ["Sure! Let's go.", "I love cold juice.", "I sell tea"],
     "answer": "Sure! Let's go."
   },
   {
     "_id": 31,
     "question_number": 31,
     "question": "Uzuza iki kiganiro:\nUmuntu A: I want to learn a new language\nUmuntu B: Which language are you considering?\nUmuntu A: …………",
-    "options": [
-      "Spanish.",
-      "Let's go",
-      "I sleep early"
-    ],
+    "options": ["Spanish.", "Let's go", "I sleep early"],
     "answer": "Spanish."
   },
   {
     "_id": 32,
     "question_number": 32,
     "question": "Soma maze usubiza:\nCan you please turn off the lights before leaving?\nUvuga arashaka .......",
-    "options": [
-      "To look at the menu",
-      "To eat",
-      "To save energy"
-    ],
+    "options": ["To look at the menu", "To eat", "To save energy"],
     "answer": "To save energy"
   },
   {
