@@ -286,5 +286,60 @@
       "Describe a movie"
     ],
     "answer": "Share train schedule"
+  },
+  {
+    "_id": 37,
+    "question_number": 37,
+    "question": "**Soma maze usubize**:\nHe apologized for being late to the meeting.\nUvuga arashaka .......",
+    "options": [
+      "Mention a mistake",
+      "Explain lateness apology",
+      "Discuss a shopping trip"
+    ],
+    "answer": "Explain lateness apology"
+  },
+  {
+    "_id": 38,
+    "question_number": 38,
+    "question": "**Soma maze usubize**:\nThe children are playing in the park.\nUvuga arashaka .......",
+    "options": [
+      "Describe workplace",
+      "Talk about children",
+      "Recap a business meeting"
+    ],
+    "answer": "Talk about children"
+  },
+  {
+    "_id": 39,
+    "question_number": 39,
+    "question": "**Soma maze usubize**:\nI need to buy groceries before dinner.\nUvuga arashaka .......",
+    "options": [
+      "Prepare for a meal",
+      "Describe a movie",
+      "Share travel plan"
+    ],
+    "answer": "Prepare for a meal"
+  },
+  {
+    "_id": 40,
+    "question_number": 40,
+    "question": "**Soma maze usubize**:\nShe loves reading mystery novels in her free time.\nUvuga arashaka .......",
+    "options": [
+      "Share a hobby",
+      "Describe a work task",
+      "Recap a sports game"
+    ],
+    "answer": "Share a hobby"
+  },
+  {
+    "_id": 41,
+    "question_number": 41,
+    "question": "**Soma maze usubize**:\nThe doctor advised him to drink more water and rest.\nUvuga arashaka .......",
+    "options": [
+      "Share a recipe",
+      "Describe medical advice",
+      "Share travel destination"
+    ],
+    "answer": "Describe medical advice"
   }
 ]
