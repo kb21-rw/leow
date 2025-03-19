@@ -269,12 +269,8 @@
     "_id": 35,
     "question_number": 35,
     "question": "**Soma maze usubize**:\nI have been studying all night for the exam.\nUvuga arashaka .......",
-    "options": [
-      "To talk about a party",
-      "Describe exam preparation",
-      "To discuss a sports event"
-    ],
-    "answer": "Describe exam preparation"
+    "options": ["Party discussion", "Exam preparation", "Discuss sports"],
+    "answer": "Exam preparation"
   },
   {
     "_id": 36,
@@ -293,10 +289,10 @@
     "question": "**Soma maze usubize**:\nHe apologized for being late to the meeting.\nUvuga arashaka .......",
     "options": [
       "Mention a mistake",
-      "Explain lateness apology",
-      "Discuss a shopping trip"
+      "Describe an apology",
+      "Describe a vacation"
     ],
-    "answer": "Explain lateness apology"
+    "answer": "Describe an apology"
   },
   {
     "_id": 38,
@@ -313,22 +309,14 @@
     "_id": 39,
     "question_number": 39,
     "question": "**Soma maze usubize**:\nI need to buy groceries before dinner.\nUvuga arashaka .......",
-    "options": [
-      "Prepare for a meal",
-      "Describe a movie",
-      "Share travel plan"
-    ],
+    "options": ["Prepare for a meal", "Describe a movie", "Share travel plan"],
     "answer": "Prepare for a meal"
   },
   {
     "_id": 40,
     "question_number": 40,
     "question": "**Soma maze usubize**:\nShe loves reading mystery novels in her free time.\nUvuga arashaka .......",
-    "options": [
-      "Share a hobby",
-      "Describe a work task",
-      "Recap a sports game"
-    ],
+    "options": ["Share a hobby", "Describe a work task", "Recap a sports game"],
     "answer": "Share a hobby"
   },
   {
