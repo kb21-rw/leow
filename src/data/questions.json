@@ -224,7 +224,7 @@
   },
   {
     "_id": 30,
-    "question_number": 7,
+    "question_number": 6,
     "question": "Uzuza iki kiganiro:\nUmuntu A: It's so hot today!\nUmuntu B: Can we go swimming?\nUmuntu A: ………..",
     "options": ["Sure! Let's go.", "I love cold juice.", "I sell tea"],
     "answer": "Sure! Let's go."
