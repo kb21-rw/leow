@@ -270,11 +270,11 @@
     "question_number": 41,
     "question": "**Soma maze usubize**:\nI have been studying all night for the exam.\nUvuga ari .......",
     "options": [
-      "To talk about a party",
-      "Describe exam preparation",
-      "To discuss a sports event"
+      "Discuss a party",
+      "Exam preparation",
+      "Discuss sports"
     ],
-    "answer": "Describe exam preparation"
+    "answer": "Exam preparation"
   },
   {
     "_id": 36,
@@ -293,10 +293,10 @@
     "question": "**Soma maze usubize**:\nHe apologized for being late to the meeting.\nUvuga ari .......",
     "options": [
       "Mention a mistake",
-      "Explain lateness apology",
-      "Discuss a shopping trip"
+      "Lateness apology",
+      "Shopping trip"
     ],
-    "answer": "Explain lateness apology"
+    "answer": "Lateness apology"
   },
   {
     "_id": 38,
