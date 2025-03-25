@@ -239,25 +239,21 @@
   {
     "_id": 32,
     "question_number": 33,
-    "question": "**Soma maze usubize**:\nCan you please turn off the lights before leaving?\nUvuga ari .......",
+    "question": "*Soma maze usubize*:\nCan you please turn off the lights before leaving?\nUvuga ari .......",
     "options": ["To look at the menu", "To eat", "To save energy"],
     "answer": "To save energy"
   },
   {
     "_id": 33,
     "question_number": 29,
-    "question": "**Soma maze usubize**:\nI'm so excited for the concert tonight!\nUvuga ari .......",
-    "options": [
-      "Discuss a task",
-      "Express excitement",
-      "Describe a book"
-    ],
+    "question": "*Soma maze usubize*:\nI'm so excited for the concert tonight!\nUvuga ari .......",
+    "options": ["Discuss a task", "Express excitement", "Describe a book"],
     "answer": "Express excitement"
   },
   {
     "_id": 34,
     "question_number": 15,
-    "question": "**Soma maze usubize**:\nDon't forget to bring your umbrella; it's going to rain.\nUvuga ari .......",
+    "question": "*Soma maze usubize*:\nDon't forget to bring your umbrella; it's going to rain.\nUvuga ari .......",
     "options": [
       "Give weather advice",
       "Plan a vacation",
@@ -268,78 +264,50 @@
   {
     "_id": 35,
     "question_number": 41,
-    "question": "**Soma maze usubize**:\nI have been studying all night for the exam.\nUvuga ari .......",
-    "options": [
-      "Discuss a party",
-      "Exam preparation",
-      "Discuss sports"
-    ],
+    "question": "*Soma maze usubize*:\nI have been studying all night for the exam.\nUvuga ari .......",
+    "options": ["Discuss a party", "Exam preparation", "Discuss sports"],
     "answer": "Exam preparation"
   },
   {
     "_id": 36,
     "question_number": 19,
-    "question": "**Soma maze usubize**:\nThe train will arrive in 10 minutes.\nUvuga ari .......",
-    "options": [
-      "Share train schedule",
-      "Discuss booking",
-      "Describe a movie"
-    ],
+    "question": "*Soma maze usubize*:\nThe train will arrive in 10 minutes.\nUvuga ari .......",
+    "options": ["Share train schedule", "Discuss booking", "Describe a movie"],
     "answer": "Share train schedule"
   },
   {
     "_id": 37,
     "question_number": 17,
-    "question": "**Soma maze usubize**:\nHe apologized for being late to the meeting.\nUvuga ari .......",
-    "options": [
-      "Mention a mistake",
-      "Lateness apology",
-      "Shopping trip"
-    ],
+    "question": "*Soma maze usubize*:\nHe apologized for being late to the meeting.\nUvuga ari .......",
+    "options": ["Mention a mistake", "Lateness apology", "Shopping trip"],
     "answer": "Lateness apology"
   },
   {
     "_id": 38,
     "question_number": 26,
-    "question": "**Soma maze usubize**:\nThe children are playing in the park.\nUvuga ari .......",
-    "options": [
-      "Describe workplace",
-      "Talk about children",
-      "Recap a meeting"
-    ],
+    "question": "*Soma maze usubize*:\nThe children are playing in the park.\nUvuga ari .......",
+    "options": ["Describe workplace", "Talk about children", "Recap a meeting"],
     "answer": "Talk about children"
   },
   {
     "_id": 39,
     "question_number": 10,
-    "question": "**Soma maze usubize**:\nI need to buy groceries before dinner.\nUvuga ari .......",
-    "options": [
-      "Prepare for a meal",
-      "Describe a movie",
-      "Share travel plan"
-    ],
+    "question": "*Soma maze usubize*:\nI need to buy groceries before dinner.\nUvuga ari .......",
+    "options": ["Prepare for a meal", "Describe a movie", "Share travel plan"],
     "answer": "Prepare for a meal"
   },
   {
     "_id": 40,
     "question_number": 23,
-    "question": "**Soma maze usubize**:\nShe loves reading mystery novels in her free time.\nUvuga ari .......",
-    "options": [
-      "Share a hobby",
-      "Describe a work task",
-      "Recap a sports game"
-    ],
+    "question": "*Soma maze usubize*:\nShe loves reading mystery novels in her free time.\nUvuga ari .......",
+    "options": ["Share a hobby", "Describe a work task", "Recap a sports game"],
     "answer": "Share a hobby"
   },
   {
     "_id": 41,
     "question_number": 13,
-    "question": "**Soma maze usubize**:\nThe doctor advised him to drink more water and rest.\nUvuga ari .......",
-    "options": [
-      "Share a recipe",
-      "Describe advice",
-      "Share destination"
-    ],
+    "question": "*Soma maze usubize*:\nThe doctor advised him to drink more water and rest.\nUvuga ari .......",
+    "options": ["Share a recipe", "Describe advice", "Share destination"],
     "answer": "Describe advice"
   }
 ]
