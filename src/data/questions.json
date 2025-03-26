@@ -8,7 +8,7 @@
   },
   {
     "_id": 2,
-    "question_number": 2,
+    "question_number": 42,
     "question": "Uzuza interuro ikurikira:\nThe farmer was ……in the field.",
     "options": ["Playing", "Planting", "Eating"],
     "answer": "Planting"
@@ -309,5 +309,12 @@
     "question": "*Soma maze usubize*:\nThe doctor advised him to drink more water and rest.\nUvuga ari .......",
     "options": ["Share a recipe", "Describe advice", "Share destination"],
     "answer": "Describe advice"
+  },
+  {
+    "_id": 42,
+    "question_number": 2,
+    "question": "Ni iki wumva: \n src/data/audios/Pronunciation _a_.mp3",
+    "options": ["f", "a", "e"],
+    "answer": "a"
   }
 ]
