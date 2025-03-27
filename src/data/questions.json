@@ -313,7 +313,7 @@
   {
     "_id": 42,
     "question_number": 2,
-    "question": "https://english-star.github.io/leow_audio_hosting/Pronunciation%20_a_.mp3",
+    "question": "https://cdn.jsdelivr.net/gh/leow_audio_hosting/Pronunciation%20_a_.mp3",
     "options": ["f", "a", "e"],
     "answer": "a"
   }
