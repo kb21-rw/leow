@@ -313,6 +313,7 @@
   {
     "_id": 42,
     "question_number": 2,
+    "type": "what-do-you-hear",
     "question": "https://leow.netlify.app/Pronunciation%20_a_.mp3",
     "options": ["f", "a", "e"],
     "answer": "a"
