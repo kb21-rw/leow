@@ -319,30 +319,35 @@
   },
   {
     "_id": 43,
+    "question_number": 43,
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Mfite amafaranga.”",
     "answer": "I have money."
   },
   {
     "_id": 44,
+    "question_number": 44,
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Ndashaka kurya.”",
     "answer": "I want to eat."
   },
   {
     "_id": 45,
+    "question_number": 45,
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Umwana ari gukina.”",
     "answer": "The child is playing."
   },
   {
     "_id": 46,
+    "question_number": 46,
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Hari ibiryo.”",
     "answer": "There is food."
   },
   {
     "_id": 47,
+    "question_number": 47,
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Ndi gusoma.”",
     "answer": "I am reading."
