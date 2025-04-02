@@ -380,5 +380,85 @@
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Ndashaka umwana.”",
     "answer": "I want a child."
+  },
+  {
+    "_id": 52,
+    "question_number": 52,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_o_.mp3",
+    "options": ["of", "o", "on"],
+    "answer": "o"
+  },
+  {
+    "_id": 53,
+    "question_number": 53,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_e_.mp3",
+    "options": ["a", "e", "i"],
+    "answer": "e"
+  },
+  {
+    "_id": 54,
+    "question_number": 54,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_i_.mp3",
+    "options": ["i", "a", "e"],
+    "answer": "i"
+  },
+  {
+    "_id": 55,
+    "question_number": 55,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation_u_.mp3",
+    "options": ["u", "moon", "e"],
+    "answer": "u"
+  },
+  {
+    "_id": 56,
+    "question_number": 56,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation_hello_.mp3",
+    "options": ["below", "hello", "yellow"],
+    "answer": "hello"
+  },
+  {
+    "_id": 57,
+    "question_number": 57,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation_water.mp3",
+    "options": ["quarter", "butter", "water"],
+    "answer": "water"
+  },
+  {
+    "_id": 58,
+    "question_number": 58,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_yes_.mp3",
+    "options": ["yes", "guess", "rest"],
+    "answer": "yes"
+  },
+  {
+    "_id": 59,
+    "question_number": 59,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation_milk_.mp3",
+    "options": ["silk", "milk", "blink"],
+    "answer": "milk"
+  },
+  {
+    "_id": 60,
+    "question_number": 60,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_no_.mp3",
+    "options": ["no", "now", "know"],
+    "answer": "no"
+  },
+  {
+    "_id": 61,
+    "question_number": 61,
+    "type": "what-do-you-hear",
+    "question": "https://leow.netlify.app/Pronunciation%20_thank%20you_.mp3",
+    "options": ["thank you", "take you", "get through"],
+    "answer": "thank you"
   }
 ]
