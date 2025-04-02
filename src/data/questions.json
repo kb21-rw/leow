@@ -352,5 +352,33 @@
     "type": "write-in-english",
     "question": "Andika mu cyongereza ibi: “Ndi gusoma.”",
     "answer": "I am reading."
+  },
+  {
+    "_id": 48,
+    "question_number": 48,
+    "type": "write-in-english",
+    "question": "Andika mu cyongereza ibi: “Ufite igitabo?”",
+    "answer": "Do you have a book?"
+  },
+  {
+    "_id": 49,
+    "question_number": 49,
+    "type": "write-in-english",
+    "question": "Andika mu cyongereza ibi: “Ndashaka kunywa icyayi.”",
+    "answer": "I want to drink tea."
+  },
+  {
+    "_id": 50,
+    "question_number": 50,
+    "type": "write-in-english",
+    "question": "Andika mu cyongereza ibi: “Ni umunsi mwiza.”",
+    "answer": "It is a good day."
+  },
+  {
+    "_id": 51,
+    "question_number": 51,
+    "type": "write-in-english",
+    "question": "Andika mu cyongereza ibi: “Ndashaka umwana.”",
+    "answer": "I want a child."
   }
 ]
